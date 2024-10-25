@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/kkpaquete_Elias/__init__.py
+src/kkpaquete_Elias/resta.py
+src/kkpaquete_Elias/suma.py
+src/kkpaquete_Elias.egg-info/PKG-INFO
+src/kkpaquete_Elias.egg-info/SOURCES.txt
+src/kkpaquete_Elias.egg-info/dependency_links.txt
+src/kkpaquete_Elias.egg-info/entry_points.txt
+src/kkpaquete_Elias.egg-info/top_level.txt
+src/kkpaquete_Elias/extra/__init__.py
+src/kkpaquete_Elias/extra/otras.py
